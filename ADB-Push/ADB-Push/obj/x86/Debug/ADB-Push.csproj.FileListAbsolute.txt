@@ -1,0 +1,7 @@
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Push\ADB-Push\bin\Debug\ADB-Push.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Push\ADB-Push\bin\Debug\ADB-Push.pdb
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Push\ADB-Push\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Push\ADB-Push\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Push\ADB-Push\obj\x86\Debug\ADB-Push.csproj.GenerateResource.Cache
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Push\ADB-Push\obj\x86\Debug\ADB-Push.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Push\ADB-Push\obj\x86\Debug\ADB-Push.pdb

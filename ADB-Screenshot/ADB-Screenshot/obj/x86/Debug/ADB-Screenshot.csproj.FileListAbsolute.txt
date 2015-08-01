@@ -1,0 +1,7 @@
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Screenshot\ADB-Screenshot\bin\Debug\ADB-Screenshot.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Screenshot\ADB-Screenshot\bin\Debug\ADB-Screenshot.pdb
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Screenshot\ADB-Screenshot\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Screenshot\ADB-Screenshot\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Screenshot\ADB-Screenshot\obj\x86\Debug\ADB-Screenshot.csproj.GenerateResource.Cache
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Screenshot\ADB-Screenshot\obj\x86\Debug\ADB-Screenshot.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Screenshot\ADB-Screenshot\obj\x86\Debug\ADB-Screenshot.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADB-APK-Installer-DD", "ADB-APK-Installer-DD\ADB-APK-Installer-DD.csproj", "{AD3DD839-04D3-4716-A0BC-2FADA8034E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD3DD839-04D3-4716-A0BC-2FADA8034E5B}.Debug|x86.ActiveCfg = Debug|x86
+		{AD3DD839-04D3-4716-A0BC-2FADA8034E5B}.Debug|x86.Build.0 = Debug|x86
+		{AD3DD839-04D3-4716-A0BC-2FADA8034E5B}.Release|x86.ActiveCfg = Release|x86
+		{AD3DD839-04D3-4716-A0BC-2FADA8034E5B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

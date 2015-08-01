@@ -1,0 +1,7 @@
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-APK-Installer-DD\ADB-APK-Installer-DD\bin\Debug\ADB-APK-Installer-DD.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-APK-Installer-DD\ADB-APK-Installer-DD\bin\Debug\ADB-APK-Installer-DD.pdb
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-APK-Installer-DD\ADB-APK-Installer-DD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-APK-Installer-DD\ADB-APK-Installer-DD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-APK-Installer-DD\ADB-APK-Installer-DD\obj\x86\Debug\ADB-APK-Installer-DD.csproj.GenerateResource.Cache
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-APK-Installer-DD\ADB-APK-Installer-DD\obj\x86\Debug\ADB-APK-Installer-DD.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-APK-Installer-DD\ADB-APK-Installer-DD\obj\x86\Debug\ADB-APK-Installer-DD.pdb

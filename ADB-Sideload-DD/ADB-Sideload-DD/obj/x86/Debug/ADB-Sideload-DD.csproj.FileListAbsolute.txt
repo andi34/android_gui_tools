@@ -1,0 +1,8 @@
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload-DD\ADB-Sideload-DD\bin\Debug\ADB-Sideload-DD.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload-DD\ADB-Sideload-DD\bin\Debug\ADB-Sideload-DD.pdb
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload-DD\ADB-Sideload-DD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload-DD\ADB-Sideload-DD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload-DD\ADB-Sideload-DD\obj\x86\Debug\ADB-Sideload-DD.csproj.GenerateResource.Cache
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload-DD\ADB-Sideload-DD\obj\x86\Debug\ADB-Sideload-DD.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload-DD\ADB-Sideload-DD\obj\x86\Debug\ADB-Sideload-DD.pdb
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload-DD\ADB-Sideload-DD\obj\x86\Debug\ADB-Sideload-DD.csprojResolveAssemblyReference.cache

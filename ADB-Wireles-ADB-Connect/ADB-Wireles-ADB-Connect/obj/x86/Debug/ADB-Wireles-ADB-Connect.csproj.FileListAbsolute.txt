@@ -1,0 +1,7 @@
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Wireles-ADB-Connect\ADB-Wireles-ADB-Connect\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Wireles-ADB-Connect\ADB-Wireles-ADB-Connect\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Wireles-ADB-Connect\ADB-Wireles-ADB-Connect\obj\x86\Debug\ADB-Wireles-ADB-Connect.csproj.GenerateResource.Cache
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Wireles-ADB-Connect\ADB-Wireles-ADB-Connect\bin\Debug\ADB-Wireles-ADB-Connect.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Wireles-ADB-Connect\ADB-Wireles-ADB-Connect\bin\Debug\ADB-Wireles-ADB-Connect.pdb
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Wireles-ADB-Connect\ADB-Wireles-ADB-Connect\obj\x86\Debug\ADB-Wireles-ADB-Connect.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Wireles-ADB-Connect\ADB-Wireles-ADB-Connect\obj\x86\Debug\ADB-Wireles-ADB-Connect.pdb

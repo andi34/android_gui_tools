@@ -1,0 +1,9 @@
+C:\Users\Andreas\documents\visual studio 2010\Projects\A-ADB-GUI\A-ADB-GUI\bin\Debug\A-ADB-GUI.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\A-ADB-GUI\A-ADB-GUI\bin\Debug\A-ADB-GUI.pdb
+C:\Users\Andreas\documents\visual studio 2010\Projects\A-ADB-GUI\A-ADB-GUI\bin\Debug\A-ADB-GUI.xml
+C:\Users\Andreas\documents\visual studio 2010\Projects\A-ADB-GUI\A-ADB-GUI\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\A-ADB-GUI\A-ADB-GUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\A-ADB-GUI\A-ADB-GUI\obj\x86\Debug\A-ADB-GUI.vbproj.GenerateResource.Cache
+C:\Users\Andreas\documents\visual studio 2010\Projects\A-ADB-GUI\A-ADB-GUI\obj\x86\Debug\A-ADB-GUI.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\A-ADB-GUI\A-ADB-GUI\obj\x86\Debug\A-ADB-GUI.xml
+C:\Users\Andreas\documents\visual studio 2010\Projects\A-ADB-GUI\A-ADB-GUI\obj\x86\Debug\A-ADB-GUI.pdb

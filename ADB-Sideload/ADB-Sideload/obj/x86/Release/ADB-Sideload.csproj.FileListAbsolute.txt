@@ -1,0 +1,7 @@
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload\ADB-Sideload\bin\Release\ADB-Sideload.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload\ADB-Sideload\bin\Release\ADB-Sideload.pdb
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload\ADB-Sideload\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload\ADB-Sideload\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload\ADB-Sideload\obj\x86\Release\ADB-Sideload.csproj.GenerateResource.Cache
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload\ADB-Sideload\obj\x86\Release\ADB-Sideload.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Sideload\ADB-Sideload\obj\x86\Release\ADB-Sideload.pdb

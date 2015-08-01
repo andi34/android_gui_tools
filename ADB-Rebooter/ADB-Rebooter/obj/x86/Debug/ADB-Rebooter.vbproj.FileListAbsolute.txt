@@ -1,0 +1,9 @@
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Rebooter\ADB-Rebooter\bin\Debug\ADB-Rebooter.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Rebooter\ADB-Rebooter\bin\Debug\ADB-Rebooter.pdb
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Rebooter\ADB-Rebooter\bin\Debug\ADB-Rebooter.xml
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Rebooter\ADB-Rebooter\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Rebooter\ADB-Rebooter\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Rebooter\ADB-Rebooter\obj\x86\Debug\ADB-Rebooter.vbproj.GenerateResource.Cache
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Rebooter\ADB-Rebooter\obj\x86\Debug\ADB-Rebooter.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Rebooter\ADB-Rebooter\obj\x86\Debug\ADB-Rebooter.xml
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-Rebooter\ADB-Rebooter\obj\x86\Debug\ADB-Rebooter.pdb

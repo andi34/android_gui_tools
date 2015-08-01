@@ -1,0 +1,13 @@
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\obj\x86\Debug\ADB-C-Raute.csproj.GenerateResource.Cache
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\obj\x86\Debug\ADB-C-Raute.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\bin\Debug\a-ADB-GUI.exe.manifest
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\bin\Debug\a-ADB-GUI.application
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\bin\Debug\a-ADB-GUI.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\bin\Debug\a-ADB-GUI.pdb
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\obj\x86\Debug\a-ADB-GUI.TrustInfo.xml
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\obj\x86\Debug\a-ADB-GUI.exe.manifest
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\obj\x86\Debug\a-ADB-GUI.application
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\obj\x86\Debug\a-ADB-GUI.exe
+C:\Users\Andreas\documents\visual studio 2010\Projects\ADB-C-Raute\ADB-C-Raute\obj\x86\Debug\a-ADB-GUI.pdb
